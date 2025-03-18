@@ -65,7 +65,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 376388490,
-        "download_count": 1516,
+        "download_count": 1518,
         "created_at": "2025-01-19T20:44:01Z",
         "updated_at": "2025-01-19T20:44:24Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-linux-aarch64.tar.gz"
@@ -135,7 +135,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 380325363,
-        "download_count": 6558,
+        "download_count": 6711,
         "created_at": "2025-01-19T20:44:25Z",
         "updated_at": "2025-01-19T20:44:49Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-linux-amd64.tar.gz"
@@ -205,7 +205,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 359392167,
-        "download_count": 1162,
+        "download_count": 1193,
         "created_at": "2025-01-19T20:44:49Z",
         "updated_at": "2025-01-19T20:45:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-macos-aarch64.tar.gz"
@@ -275,7 +275,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 359737233,
-        "download_count": 1298,
+        "download_count": 1328,
         "created_at": "2025-01-19T20:45:12Z",
         "updated_at": "2025-01-19T20:45:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-macos-amd64.tar.gz"
@@ -345,7 +345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 623134470,
-        "download_count": 2135,
+        "download_count": 2211,
         "created_at": "2025-01-19T20:45:35Z",
         "updated_at": "2025-01-19T20:46:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-windows-amd64.zip"
@@ -695,7 +695,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 606055060,
-        "download_count": 35,
+        "download_count": 37,
         "created_at": "2025-01-19T20:41:19Z",
         "updated_at": "2025-01-19T20:41:55Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-community-24.1.2-windows-amd64.zip"
@@ -1045,7 +1045,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 664292594,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2025-01-19T20:43:21Z",
         "updated_at": "2025-01-19T20:44:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-community-jvm-24.1.2-windows-amd64.zip"
@@ -3029,7 +3029,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 377290712,
-        "download_count": 1153,
+        "download_count": 1155,
         "created_at": "2024-09-16T13:54:44Z",
         "updated_at": "2024-09-16T13:55:07Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.0/graalpy-24.1.0-linux-amd64.tar.gz"
@@ -4482,7 +4482,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 353095453,
-        "download_count": 7064,
+        "download_count": 7069,
         "created_at": "2024-07-16T12:16:13Z",
         "updated_at": "2024-07-16T12:16:36Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-linux-amd64.tar.gz"
@@ -4552,7 +4552,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 329679622,
-        "download_count": 662,
+        "download_count": 666,
         "created_at": "2024-07-16T12:16:37Z",
         "updated_at": "2024-07-16T12:16:57Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-macos-aarch64.tar.gz"
@@ -5935,7 +5935,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 352933446,
-        "download_count": 5904,
+        "download_count": 5905,
         "created_at": "2024-04-16T09:07:10Z",
         "updated_at": "2024-04-16T09:07:31Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.1/graalpy-24.0.1-linux-amd64.tar.gz"
@@ -7726,7 +7726,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 265642891,
-        "download_count": 1960,
+        "download_count": 1964,
         "created_at": "2024-03-19T13:38:34Z",
         "updated_at": "2024-03-19T13:38:56Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.0/graalpy-community-24.0.0-linux-amd64.tar.gz"
@@ -7796,7 +7796,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 253644808,
-        "download_count": 380,
+        "download_count": 381,
         "created_at": "2024-03-19T13:38:57Z",
         "updated_at": "2024-03-19T13:39:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.0/graalpy-community-24.0.0-macos-aarch64.tar.gz"
@@ -7866,7 +7866,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 258298326,
-        "download_count": 31743,
+        "download_count": 31824,
         "created_at": "2024-03-19T13:39:16Z",
         "updated_at": "2024-03-19T13:39:36Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.0/graalpy-community-24.0.0-macos-amd64.tar.gz"
@@ -8829,7 +8829,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 365113595,
-        "download_count": 3836,
+        "download_count": 3854,
         "created_at": "2024-01-15T21:05:45Z",
         "updated_at": "2024-01-15T21:06:11Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-23.1.2-linux-amd64.tar.gz"
@@ -8899,7 +8899,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 343185864,
-        "download_count": 1144,
+        "download_count": 1154,
         "created_at": "2024-01-15T21:06:12Z",
         "updated_at": "2024-01-15T21:06:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-23.1.2-macos-aarch64.tar.gz"
@@ -8969,7 +8969,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 344826448,
-        "download_count": 1214,
+        "download_count": 1222,
         "created_at": "2024-01-15T21:06:35Z",
         "updated_at": "2024-01-15T21:07:03Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-23.1.2-macos-amd64.tar.gz"
@@ -9039,7 +9039,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 611270362,
-        "download_count": 329,
+        "download_count": 330,
         "created_at": "2024-01-15T21:07:03Z",
         "updated_at": "2024-01-15T21:07:48Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-23.1.2-windows-amd64.zip"
@@ -9739,7 +9739,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 656841678,
-        "download_count": 39,
+        "download_count": 40,
         "created_at": "2024-01-15T21:04:17Z",
         "updated_at": "2024-01-15T21:05:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-community-jvm-23.1.2-windows-amd64.zip"
@@ -10089,7 +10089,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 666625252,
-        "download_count": 44,
+        "download_count": 45,
         "created_at": "2024-01-15T21:10:40Z",
         "updated_at": "2024-01-15T21:11:20Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-jvm-23.1.2-windows-amd64.zip"
@@ -13048,7 +13048,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 215641884,
-        "download_count": 4407,
+        "download_count": 4425,
         "created_at": "2023-07-23T12:45:46Z",
         "updated_at": "2023-07-23T12:46:03Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/graalpython-23.0.1-linux-amd64.tar.gz"
@@ -13118,7 +13118,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 219630543,
-        "download_count": 1147,
+        "download_count": 1155,
         "created_at": "2023-07-23T12:46:03Z",
         "updated_at": "2023-07-23T12:46:17Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/graalpython-23.0.1-macos-aarch64.tar.gz"
@@ -13188,7 +13188,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 229659913,
-        "download_count": 1181,
+        "download_count": 1189,
         "created_at": "2023-07-23T12:46:18Z",
         "updated_at": "2023-07-23T12:46:32Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/graalpython-23.0.1-macos-amd64.tar.gz"
@@ -13468,7 +13468,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153876851,
-        "download_count": 6230,
+        "download_count": 6231,
         "created_at": "2023-07-23T12:47:11Z",
         "updated_at": "2023-07-23T12:47:21Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/python-installable-svm-java17-linux-amd64-23.0.1.jar"
@@ -13538,7 +13538,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152580163,
-        "download_count": 166,
+        "download_count": 167,
         "created_at": "2023-07-23T12:47:22Z",
         "updated_at": "2023-07-23T12:47:32Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/python-installable-svm-java20-darwin-aarch64-23.0.1.jar"
@@ -13859,7 +13859,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 208285038,
-        "download_count": 119,
+        "download_count": 120,
         "created_at": "2023-06-13T07:29:25Z",
         "updated_at": "2023-06-13T07:29:38Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-linux-aarch64.tar.gz"
@@ -13894,7 +13894,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-06-13T07:32:07Z",
         "updated_at": "2023-06-13T07:32:07Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-linux-aarch64.tar.gz.sha256"
@@ -13929,7 +13929,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 213747624,
-        "download_count": 343,
+        "download_count": 344,
         "created_at": "2023-06-13T07:29:38Z",
         "updated_at": "2023-06-13T07:29:53Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-linux-amd64.tar.gz"
@@ -13964,7 +13964,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2023-06-13T07:32:08Z",
         "updated_at": "2023-06-13T07:32:08Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-linux-amd64.tar.gz.sha256"
@@ -13999,7 +13999,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 217696547,
-        "download_count": 102,
+        "download_count": 103,
         "created_at": "2023-06-13T07:29:54Z",
         "updated_at": "2023-06-13T07:30:17Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-macos-aarch64.tar.gz"
@@ -14034,7 +14034,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2023-06-13T07:32:09Z",
         "updated_at": "2023-06-13T07:32:09Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-macos-aarch64.tar.gz.sha256"
@@ -14069,7 +14069,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 227762432,
-        "download_count": 81,
+        "download_count": 82,
         "created_at": "2023-06-13T07:30:17Z",
         "updated_at": "2023-06-13T07:30:31Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-macos-amd64.tar.gz"
@@ -14104,7 +14104,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2023-06-13T07:32:09Z",
         "updated_at": "2023-06-13T07:32:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/graalpython-23.0.0-macos-amd64.tar.gz.sha256"
@@ -14139,7 +14139,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151774852,
-        "download_count": 35,
+        "download_count": 36,
         "created_at": "2023-06-13T07:30:31Z",
         "updated_at": "2023-06-13T07:30:46Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-darwin-aarch64-23.0.0.jar"
@@ -14174,7 +14174,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:10Z",
         "updated_at": "2023-06-13T07:32:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-darwin-aarch64-23.0.0.jar.sha256"
@@ -14209,7 +14209,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 155958615,
-        "download_count": 5116,
+        "download_count": 5117,
         "created_at": "2023-06-13T07:30:46Z",
         "updated_at": "2023-06-13T07:30:56Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-darwin-amd64-23.0.0.jar"
@@ -14244,7 +14244,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:11Z",
         "updated_at": "2023-06-13T07:32:11Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-darwin-amd64-23.0.0.jar.sha256"
@@ -14279,7 +14279,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 149559953,
-        "download_count": 35,
+        "download_count": 36,
         "created_at": "2023-06-13T07:30:57Z",
         "updated_at": "2023-06-13T07:31:09Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-linux-aarch64-23.0.0.jar"
@@ -14314,7 +14314,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:12Z",
         "updated_at": "2023-06-13T07:32:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-linux-aarch64-23.0.0.jar.sha256"
@@ -14349,7 +14349,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153700590,
-        "download_count": 1183,
+        "download_count": 1184,
         "created_at": "2023-06-13T07:31:10Z",
         "updated_at": "2023-06-13T07:31:20Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-linux-amd64-23.0.0.jar"
@@ -14384,7 +14384,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:12Z",
         "updated_at": "2023-06-13T07:32:13Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java17-linux-amd64-23.0.0.jar.sha256"
@@ -14419,7 +14419,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152397687,
-        "download_count": 34,
+        "download_count": 35,
         "created_at": "2023-06-13T07:31:21Z",
         "updated_at": "2023-06-13T07:31:33Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-darwin-aarch64-23.0.0.jar"
@@ -14454,7 +14454,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:13Z",
         "updated_at": "2023-06-13T07:32:13Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-darwin-aarch64-23.0.0.jar.sha256"
@@ -14489,7 +14489,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 156585204,
-        "download_count": 28,
+        "download_count": 29,
         "created_at": "2023-06-13T07:31:34Z",
         "updated_at": "2023-06-13T07:31:44Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-darwin-amd64-23.0.0.jar"
@@ -14524,7 +14524,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:14Z",
         "updated_at": "2023-06-13T07:32:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-darwin-amd64-23.0.0.jar.sha256"
@@ -14559,7 +14559,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 150007420,
-        "download_count": 22,
+        "download_count": 23,
         "created_at": "2023-06-13T07:31:45Z",
         "updated_at": "2023-06-13T07:31:56Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-linux-aarch64-23.0.0.jar"
@@ -14594,7 +14594,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:14Z",
         "updated_at": "2023-06-13T07:32:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-linux-aarch64-23.0.0.jar.sha256"
@@ -14629,7 +14629,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 154254267,
-        "download_count": 329,
+        "download_count": 330,
         "created_at": "2023-06-13T07:31:56Z",
         "updated_at": "2023-06-13T07:32:07Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-linux-amd64-23.0.0.jar"
@@ -14664,7 +14664,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-06-13T07:32:15Z",
         "updated_at": "2023-06-13T07:32:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.0/python-installable-svm-java20-linux-amd64-23.0.0.jar.sha256"
@@ -14752,7 +14752,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 203943527,
-        "download_count": 37,
+        "download_count": 38,
         "created_at": "2023-01-23T17:08:50Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-aarch64.tar.gz"
@@ -14787,7 +14787,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:06Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-aarch64.tar.gz.sha256"
@@ -14822,7 +14822,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 207156431,
-        "download_count": 4754,
+        "download_count": 4773,
         "created_at": "2023-01-23T17:09:44Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-amd64.tar.gz"
@@ -14857,7 +14857,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2023-01-23T17:18:06Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-amd64.tar.gz.sha256"
@@ -14892,7 +14892,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 219778186,
-        "download_count": 1157,
+        "download_count": 1166,
         "created_at": "2023-01-23T17:10:29Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-aarch64.tar.gz"
@@ -14927,7 +14927,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:07Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-aarch64.tar.gz.sha256"
@@ -14962,7 +14962,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 221334807,
-        "download_count": 1373,
+        "download_count": 1382,
         "created_at": "2023-01-23T17:11:14Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-amd64.tar.gz"
@@ -14997,7 +14997,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2023-01-23T17:18:08Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-amd64.tar.gz.sha256"
@@ -15032,7 +15032,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 157914202,
-        "download_count": 126,
+        "download_count": 127,
         "created_at": "2023-01-23T17:11:58Z",
         "updated_at": "2023-01-23T17:12:30Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-darwin-aarch64-22.3.1.jar"
@@ -15067,7 +15067,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2023-01-23T17:18:09Z",
         "updated_at": "2023-01-23T17:18:09Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-darwin-aarch64-22.3.1.jar.sha256"
@@ -15102,7 +15102,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153685519,
-        "download_count": 5567,
+        "download_count": 5568,
         "created_at": "2023-01-23T17:12:31Z",
         "updated_at": "2023-01-23T17:13:06Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-darwin-amd64-22.3.1.jar"
@@ -15137,7 +15137,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:09Z",
         "updated_at": "2023-01-23T17:18:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-darwin-amd64-22.3.1.jar.sha256"
@@ -15172,7 +15172,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 149936030,
-        "download_count": 76,
+        "download_count": 77,
         "created_at": "2023-01-23T17:13:07Z",
         "updated_at": "2023-01-23T17:13:39Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-linux-aarch64-22.3.1.jar"
@@ -15207,7 +15207,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2023-01-23T17:18:10Z",
         "updated_at": "2023-01-23T17:18:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-linux-aarch64-22.3.1.jar.sha256"
@@ -15242,7 +15242,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151542239,
-        "download_count": 2601,
+        "download_count": 2603,
         "created_at": "2023-01-23T17:13:39Z",
         "updated_at": "2023-01-23T17:14:09Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-linux-amd64-22.3.1.jar"
@@ -15277,7 +15277,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 21,
+        "download_count": 22,
         "created_at": "2023-01-23T17:18:11Z",
         "updated_at": "2023-01-23T17:18:11Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-linux-amd64-22.3.1.jar.sha256"
@@ -15312,7 +15312,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 159333479,
-        "download_count": 210,
+        "download_count": 211,
         "created_at": "2023-01-23T17:14:09Z",
         "updated_at": "2023-01-23T17:14:37Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-darwin-aarch64-22.3.1.jar"
@@ -15347,7 +15347,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2023-01-23T17:18:12Z",
         "updated_at": "2023-01-23T17:18:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-darwin-aarch64-22.3.1.jar.sha256"
@@ -15382,7 +15382,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 154956143,
-        "download_count": 2379,
+        "download_count": 2380,
         "created_at": "2023-01-23T17:14:37Z",
         "updated_at": "2023-01-23T17:15:08Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-darwin-amd64-22.3.1.jar"
@@ -15417,7 +15417,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2023-01-23T17:18:12Z",
         "updated_at": "2023-01-23T17:18:13Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-darwin-amd64-22.3.1.jar.sha256"
@@ -15452,7 +15452,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151260875,
-        "download_count": 171,
+        "download_count": 172,
         "created_at": "2023-01-23T17:15:09Z",
         "updated_at": "2023-01-23T17:15:39Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-linux-aarch64-22.3.1.jar"
@@ -15487,7 +15487,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2023-01-23T17:18:13Z",
         "updated_at": "2023-01-23T17:18:13Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-linux-aarch64-22.3.1.jar.sha256"
@@ -15522,7 +15522,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152823583,
-        "download_count": 16116,
+        "download_count": 16136,
         "created_at": "2023-01-23T17:15:40Z",
         "updated_at": "2023-01-23T17:16:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-linux-amd64-22.3.1.jar"
@@ -15557,7 +15557,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2023-01-23T17:18:14Z",
         "updated_at": "2023-01-23T17:18:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java17-linux-amd64-22.3.1.jar.sha256"
@@ -15592,7 +15592,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 159455291,
-        "download_count": 111,
+        "download_count": 112,
         "created_at": "2023-01-23T17:16:10Z",
         "updated_at": "2023-01-23T17:16:51Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-darwin-aarch64-22.3.1.jar"
@@ -15627,7 +15627,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:15Z",
         "updated_at": "2023-01-23T17:18:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-darwin-aarch64-22.3.1.jar.sha256"
@@ -15662,7 +15662,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 155057237,
-        "download_count": 123,
+        "download_count": 124,
         "created_at": "2023-01-23T17:16:51Z",
         "updated_at": "2023-01-23T17:17:22Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-darwin-amd64-22.3.1.jar"
@@ -15697,7 +15697,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:15Z",
         "updated_at": "2023-01-23T17:18:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-darwin-amd64-22.3.1.jar.sha256"
@@ -15732,7 +15732,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151342460,
-        "download_count": 43,
+        "download_count": 44,
         "created_at": "2023-01-23T17:17:22Z",
         "updated_at": "2023-01-23T17:17:46Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-linux-aarch64-22.3.1.jar"
@@ -15767,7 +15767,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2023-01-23T17:18:16Z",
         "updated_at": "2023-01-23T17:18:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-linux-aarch64-22.3.1.jar.sha256"
@@ -15802,7 +15802,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152925492,
-        "download_count": 426,
+        "download_count": 427,
         "created_at": "2023-01-23T17:17:47Z",
         "updated_at": "2023-01-23T17:18:05Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-linux-amd64-22.3.1.jar"
@@ -15837,7 +15837,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2023-01-23T17:18:17Z",
         "updated_at": "2023-01-23T17:18:17Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java19-linux-amd64-22.3.1.jar.sha256"
@@ -15925,7 +15925,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 203184155,
-        "download_count": 38,
+        "download_count": 39,
         "created_at": "2022-10-21T16:54:11Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-linux-aarch64.tar.gz"
@@ -15960,7 +15960,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 20,
+        "download_count": 21,
         "created_at": "2022-10-21T17:02:48Z",
         "updated_at": "2022-10-25T12:10:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-linux-aarch64.tar.gz.sha256"
@@ -15995,7 +15995,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 206407259,
-        "download_count": 271,
+        "download_count": 272,
         "created_at": "2022-10-21T16:54:40Z",
         "updated_at": "2022-10-25T12:10:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-linux-amd64.tar.gz"
@@ -16030,7 +16030,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2022-10-21T17:02:48Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-linux-amd64.tar.gz.sha256"
@@ -16065,7 +16065,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 211813509,
-        "download_count": 110,
+        "download_count": 111,
         "created_at": "2022-10-21T16:55:10Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-macos-aarch64.tar.gz"
@@ -16100,7 +16100,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:49Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-macos-aarch64.tar.gz.sha256"
@@ -16135,7 +16135,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 219429099,
-        "download_count": 60,
+        "download_count": 61,
         "created_at": "2022-10-21T16:55:40Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-macos-amd64.tar.gz"
@@ -16170,7 +16170,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:50Z",
         "updated_at": "2022-10-25T12:10:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/graalpy-22.3.0-macos-amd64.tar.gz.sha256"
@@ -16205,7 +16205,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151879218,
-        "download_count": 111,
+        "download_count": 112,
         "created_at": "2022-10-21T16:56:23Z",
         "updated_at": "2022-10-21T16:56:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-darwin-aarch64-22.3.0.jar"
@@ -16240,7 +16240,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:51Z",
         "updated_at": "2022-10-21T17:02:51Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-darwin-aarch64-22.3.0.jar.sha256"
@@ -16275,7 +16275,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153546449,
-        "download_count": 3797,
+        "download_count": 3798,
         "created_at": "2022-10-21T16:56:59Z",
         "updated_at": "2022-10-21T16:57:40Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-darwin-amd64-22.3.0.jar"
@@ -16310,7 +16310,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2022-10-21T17:02:52Z",
         "updated_at": "2022-10-21T17:02:52Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-darwin-amd64-22.3.0.jar.sha256"
@@ -16345,7 +16345,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 149921089,
-        "download_count": 144,
+        "download_count": 145,
         "created_at": "2022-10-21T16:57:41Z",
         "updated_at": "2022-10-21T16:57:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-linux-aarch64-22.3.0.jar"
@@ -16380,7 +16380,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:53Z",
         "updated_at": "2022-10-21T17:02:53Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-linux-aarch64-22.3.0.jar.sha256"
@@ -16415,7 +16415,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151548891,
-        "download_count": 4077,
+        "download_count": 4079,
         "created_at": "2022-10-21T16:57:59Z",
         "updated_at": "2022-10-21T16:58:25Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-linux-amd64-22.3.0.jar"
@@ -16450,7 +16450,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2022-10-21T17:02:53Z",
         "updated_at": "2022-10-21T17:02:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-linux-amd64-22.3.0.jar.sha256"
@@ -16485,7 +16485,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153017336,
-        "download_count": 141,
+        "download_count": 142,
         "created_at": "2022-10-21T16:58:25Z",
         "updated_at": "2022-10-21T16:58:49Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-darwin-aarch64-22.3.0.jar"
@@ -16520,7 +16520,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:54Z",
         "updated_at": "2022-10-21T17:02:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-darwin-aarch64-22.3.0.jar.sha256"
@@ -16555,7 +16555,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 154597017,
-        "download_count": 175,
+        "download_count": 176,
         "created_at": "2022-10-21T16:58:50Z",
         "updated_at": "2022-10-21T16:59:22Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-darwin-amd64-22.3.0.jar"
@@ -16590,7 +16590,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:55Z",
         "updated_at": "2022-10-21T17:02:55Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-darwin-amd64-22.3.0.jar.sha256"
@@ -16625,7 +16625,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 150999566,
-        "download_count": 188,
+        "download_count": 189,
         "created_at": "2022-10-21T16:59:22Z",
         "updated_at": "2022-10-21T16:59:51Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-linux-aarch64-22.3.0.jar"
@@ -16660,7 +16660,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:56Z",
         "updated_at": "2022-10-21T17:02:56Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-linux-aarch64-22.3.0.jar.sha256"
@@ -16695,7 +16695,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152607645,
-        "download_count": 10981,
+        "download_count": 10982,
         "created_at": "2022-10-21T16:59:52Z",
         "updated_at": "2022-10-21T17:00:28Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-linux-amd64-22.3.0.jar"
@@ -16730,7 +16730,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2022-10-21T17:02:56Z",
         "updated_at": "2022-10-21T17:02:57Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java17-linux-amd64-22.3.0.jar.sha256"
@@ -16765,7 +16765,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 153370747,
-        "download_count": 74,
+        "download_count": 75,
         "created_at": "2022-10-21T17:00:29Z",
         "updated_at": "2022-10-21T17:01:06Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-darwin-aarch64-22.3.0.jar"
@@ -16800,7 +16800,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:57Z",
         "updated_at": "2022-10-21T17:02:57Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-darwin-aarch64-22.3.0.jar.sha256"
@@ -16835,7 +16835,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 154902692,
-        "download_count": 100,
+        "download_count": 101,
         "created_at": "2022-10-21T17:01:06Z",
         "updated_at": "2022-10-21T17:01:33Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-darwin-amd64-22.3.0.jar"
@@ -16870,7 +16870,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:58Z",
         "updated_at": "2022-10-21T17:02:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-darwin-amd64-22.3.0.jar.sha256"
@@ -16905,7 +16905,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 151348350,
-        "download_count": 1217,
+        "download_count": 1218,
         "created_at": "2022-10-21T17:01:34Z",
         "updated_at": "2022-10-21T17:02:08Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-linux-aarch64-22.3.0.jar"
@@ -16940,7 +16940,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:02:59Z",
         "updated_at": "2022-10-21T17:02:59Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-linux-aarch64-22.3.0.jar.sha256"
@@ -16975,7 +16975,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 152945140,
-        "download_count": 668,
+        "download_count": 669,
         "created_at": "2022-10-21T17:02:09Z",
         "updated_at": "2022-10-21T17:02:47Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-linux-amd64-22.3.0.jar"
@@ -17010,7 +17010,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-10-21T17:03:00Z",
         "updated_at": "2022-10-21T17:03:00Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java19-linux-amd64-22.3.0.jar.sha256"
@@ -17086,7 +17086,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 213303771,
-        "download_count": 772,
+        "download_count": 773,
         "created_at": "2022-07-24T21:29:59Z",
         "updated_at": "2022-07-24T21:30:37Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/graalpython-22.2.0-linux-amd64.tar.gz"
@@ -17121,7 +17121,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 21,
+        "download_count": 22,
         "created_at": "2022-07-24T21:32:51Z",
         "updated_at": "2022-07-24T21:32:51Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/graalpython-22.2.0-linux-amd64.tar.gz.sha256"
@@ -17156,7 +17156,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 229775278,
-        "download_count": 84,
+        "download_count": 85,
         "created_at": "2022-07-24T21:30:38Z",
         "updated_at": "2022-07-24T21:31:10Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/graalpython-22.2.0-macos-amd64.tar.gz"
@@ -17191,7 +17191,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 20,
+        "download_count": 21,
         "created_at": "2022-07-24T21:32:52Z",
         "updated_at": "2022-07-24T21:32:52Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/graalpython-22.2.0-macos-amd64.tar.gz.sha256"
@@ -17226,7 +17226,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 166887010,
-        "download_count": 84,
+        "download_count": 85,
         "created_at": "2022-07-24T21:31:10Z",
         "updated_at": "2022-07-24T21:31:39Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java11-darwin-amd64-22.2.0.jar"
@@ -17261,7 +17261,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2022-07-24T21:32:53Z",
         "updated_at": "2022-07-24T21:32:53Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java11-darwin-amd64-22.2.0.jar.sha256"
@@ -17296,7 +17296,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 162939311,
-        "download_count": 1630,
+        "download_count": 1631,
         "created_at": "2022-07-24T21:31:39Z",
         "updated_at": "2022-07-24T21:32:06Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java11-linux-amd64-22.2.0.jar"
@@ -17331,7 +17331,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 161,
+        "download_count": 162,
         "created_at": "2022-07-24T21:32:53Z",
         "updated_at": "2022-07-24T21:32:53Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java11-linux-amd64-22.2.0.jar.sha256"
@@ -17366,7 +17366,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 168473794,
-        "download_count": 171,
+        "download_count": 172,
         "created_at": "2022-07-24T21:32:07Z",
         "updated_at": "2022-07-24T21:32:29Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java17-darwin-amd64-22.2.0.jar"
@@ -17401,7 +17401,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2022-07-24T21:32:54Z",
         "updated_at": "2022-07-24T21:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java17-darwin-amd64-22.2.0.jar.sha256"
@@ -17436,7 +17436,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 164464388,
-        "download_count": 51529,
+        "download_count": 51640,
         "created_at": "2022-07-24T21:32:29Z",
         "updated_at": "2022-07-24T21:32:50Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java17-linux-amd64-22.2.0.jar"
@@ -17471,7 +17471,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 24,
+        "download_count": 25,
         "created_at": "2022-07-24T21:32:55Z",
         "updated_at": "2022-07-24T21:32:55Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java17-linux-amd64-22.2.0.jar.sha256"
@@ -17547,7 +17547,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 177088331,
-        "download_count": 127,
+        "download_count": 128,
         "created_at": "2022-04-24T22:06:28Z",
         "updated_at": "2022-04-24T22:06:43Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/graalpython-22.1.0-linux-amd64.tar.gz"
@@ -17582,7 +17582,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 21,
+        "download_count": 22,
         "created_at": "2022-04-24T22:07:57Z",
         "updated_at": "2022-04-24T22:07:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/graalpython-22.1.0-linux-amd64.tar.gz.sha256"
@@ -17617,7 +17617,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 184199468,
-        "download_count": 40,
+        "download_count": 41,
         "created_at": "2022-04-24T22:06:44Z",
         "updated_at": "2022-04-24T22:06:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/graalpython-22.1.0-macos-amd64.tar.gz"
@@ -17652,7 +17652,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2022-04-24T22:07:58Z",
         "updated_at": "2022-04-24T22:07:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/graalpython-22.1.0-macos-amd64.tar.gz.sha256"
@@ -17687,7 +17687,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 135978181,
-        "download_count": 103,
+        "download_count": 104,
         "created_at": "2022-04-24T22:06:59Z",
         "updated_at": "2022-04-24T22:07:11Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java11-darwin-amd64-22.1.0.jar"
@@ -17722,7 +17722,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 15,
+        "download_count": 16,
         "created_at": "2022-04-24T22:07:59Z",
         "updated_at": "2022-04-24T22:07:59Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java11-darwin-amd64-22.1.0.jar.sha256"
@@ -17757,7 +17757,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 132610464,
-        "download_count": 1814,
+        "download_count": 1815,
         "created_at": "2022-04-24T22:07:12Z",
         "updated_at": "2022-04-24T22:07:24Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java11-linux-amd64-22.1.0.jar"
@@ -17792,7 +17792,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2022-04-24T22:08:00Z",
         "updated_at": "2022-04-24T22:08:00Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java11-linux-amd64-22.1.0.jar.sha256"
@@ -17827,7 +17827,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 137606368,
-        "download_count": 231,
+        "download_count": 232,
         "created_at": "2022-04-24T22:07:25Z",
         "updated_at": "2022-04-24T22:07:35Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java17-darwin-amd64-22.1.0.jar"
@@ -17862,7 +17862,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2022-04-24T22:08:00Z",
         "updated_at": "2022-04-24T22:08:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java17-darwin-amd64-22.1.0.jar.sha256"
@@ -17897,7 +17897,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 134233712,
-        "download_count": 4757,
+        "download_count": 4758,
         "created_at": "2022-04-24T22:07:35Z",
         "updated_at": "2022-04-24T22:07:57Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java17-linux-amd64-22.1.0.jar"
@@ -17932,7 +17932,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 22,
+        "download_count": 23,
         "created_at": "2022-04-24T22:08:01Z",
         "updated_at": "2022-04-24T22:08:01Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.1.0/python-installable-svm-java17-linux-amd64-22.1.0.jar.sha256"
@@ -18008,7 +18008,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 169882902,
-        "download_count": 95,
+        "download_count": 96,
         "created_at": "2022-01-25T02:21:28Z",
         "updated_at": "2022-01-25T02:22:22Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/graalpython-22.0.0.2-linux-amd64.tar.gz"
@@ -18043,7 +18043,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 20,
+        "download_count": 21,
         "created_at": "2022-01-25T02:26:44Z",
         "updated_at": "2022-01-25T02:26:45Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/graalpython-22.0.0.2-linux-amd64.tar.gz.sha256"
@@ -18078,7 +18078,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 169812686,
-        "download_count": 40,
+        "download_count": 41,
         "created_at": "2022-01-25T02:22:22Z",
         "updated_at": "2022-01-25T02:23:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/graalpython-22.0.0.2-macos-amd64.tar.gz"
@@ -18113,7 +18113,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2022-01-25T02:26:45Z",
         "updated_at": "2022-01-25T02:26:46Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/graalpython-22.0.0.2-macos-amd64.tar.gz.sha256"
@@ -18148,7 +18148,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 134123372,
-        "download_count": 154,
+        "download_count": 155,
         "created_at": "2022-01-25T02:23:15Z",
         "updated_at": "2022-01-25T02:24:07Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java11-darwin-amd64-22.0.0.2.jar"
@@ -18183,7 +18183,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 23,
+        "download_count": 24,
         "created_at": "2022-01-25T02:26:46Z",
         "updated_at": "2022-01-25T02:26:46Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java11-darwin-amd64-22.0.0.2.jar.sha256"
@@ -18218,7 +18218,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 130729426,
-        "download_count": 615,
+        "download_count": 616,
         "created_at": "2022-01-25T02:24:07Z",
         "updated_at": "2022-01-25T02:24:58Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java11-linux-amd64-22.0.0.2.jar"
@@ -18253,7 +18253,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 21,
+        "download_count": 22,
         "created_at": "2022-01-25T02:26:47Z",
         "updated_at": "2022-01-25T02:26:47Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java11-linux-amd64-22.0.0.2.jar.sha256"
@@ -18288,7 +18288,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 135598585,
-        "download_count": 379,
+        "download_count": 380,
         "created_at": "2022-01-25T02:24:59Z",
         "updated_at": "2022-01-25T02:25:53Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java17-darwin-amd64-22.0.0.2.jar"
@@ -18323,7 +18323,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 29,
+        "download_count": 30,
         "created_at": "2022-01-25T02:26:48Z",
         "updated_at": "2022-01-25T02:26:48Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java17-darwin-amd64-22.0.0.2.jar.sha256"
@@ -18358,7 +18358,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 132220138,
-        "download_count": 4148,
+        "download_count": 4149,
         "created_at": "2022-01-25T02:25:53Z",
         "updated_at": "2022-01-25T02:26:44Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java17-linux-amd64-22.0.0.2.jar"
@@ -18393,7 +18393,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 29,
+        "download_count": 30,
         "created_at": "2022-01-25T02:26:49Z",
         "updated_at": "2022-01-25T02:26:49Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.0.0.2/python-installable-svm-java17-linux-amd64-22.0.0.2.jar.sha256"
@@ -18469,7 +18469,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 164083526,
-        "download_count": 104,
+        "download_count": 105,
         "created_at": "2021-10-19T08:37:05Z",
         "updated_at": "2021-10-19T08:37:36Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/graalpython-21.3.0-linux-amd64.tar.gz"
@@ -18504,7 +18504,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 20,
+        "download_count": 21,
         "created_at": "2021-10-19T08:39:31Z",
         "updated_at": "2021-10-19T08:39:31Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/graalpython-21.3.0-linux-amd64.tar.gz.sha256"
@@ -18539,7 +18539,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 163628415,
-        "download_count": 52,
+        "download_count": 53,
         "created_at": "2021-10-19T08:37:36Z",
         "updated_at": "2021-10-19T08:38:04Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/graalpython-21.3.0-macos-amd64.tar.gz"
@@ -18574,7 +18574,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2021-10-19T08:39:32Z",
         "updated_at": "2021-10-19T08:39:32Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/graalpython-21.3.0-macos-amd64.tar.gz.sha256"
@@ -18609,7 +18609,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 130111944,
-        "download_count": 7673,
+        "download_count": 7674,
         "created_at": "2021-10-19T08:38:05Z",
         "updated_at": "2021-10-19T08:38:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java11-darwin-amd64-21.3.0.jar"
@@ -18644,7 +18644,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2021-10-19T08:39:33Z",
         "updated_at": "2021-10-19T08:39:33Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java11-darwin-amd64-21.3.0.jar.sha256"
@@ -18679,7 +18679,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 126672673,
-        "download_count": 4920,
+        "download_count": 4921,
         "created_at": "2021-10-19T08:38:15Z",
         "updated_at": "2021-10-19T08:38:25Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java11-linux-amd64-21.3.0.jar"
@@ -18714,7 +18714,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 18,
+        "download_count": 19,
         "created_at": "2021-10-19T08:39:33Z",
         "updated_at": "2021-10-19T08:39:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java11-linux-amd64-21.3.0.jar.sha256"
@@ -18749,7 +18749,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 131162691,
-        "download_count": 202,
+        "download_count": 203,
         "created_at": "2021-10-19T08:38:26Z",
         "updated_at": "2021-10-19T08:38:46Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java17-darwin-amd64-21.3.0.jar"
@@ -18784,7 +18784,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2021-10-19T08:39:34Z",
         "updated_at": "2021-10-19T08:39:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java17-darwin-amd64-21.3.0.jar.sha256"
@@ -18819,7 +18819,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 127651756,
-        "download_count": 3415,
+        "download_count": 3416,
         "created_at": "2021-10-19T08:38:47Z",
         "updated_at": "2021-10-19T08:39:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java17-linux-amd64-21.3.0.jar"
@@ -18854,7 +18854,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 64,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2021-10-19T08:39:35Z",
         "updated_at": "2021-10-19T08:39:35Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java17-linux-amd64-21.3.0.jar.sha256"
@@ -19140,7 +19140,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 128392278,
-        "download_count": 7594,
+        "download_count": 7601,
         "created_at": "2021-07-20T14:50:54Z",
         "updated_at": "2021-07-20T14:53:00Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.2.0/python-installable-svm-java11-linux-amd64-21.2.0.jar"
@@ -19350,7 +19350,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 126726945,
-        "download_count": 1236,
+        "download_count": 1238,
         "created_at": "2021-07-29T22:44:58Z",
         "updated_at": "2021-07-29T22:45:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.2.0/python-installable-svm-java8-linux-amd64-21.2.0.jar"
@@ -19741,7 +19741,7 @@
         "content_type": "application/binary",
         "state": "uploaded",
         "size": 128237467,
-        "download_count": 12298,
+        "download_count": 12300,
         "created_at": "2021-04-20T05:33:56Z",
         "updated_at": "2021-04-20T05:34:17Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.1.0/python-installable-svm-java8-linux-amd64-21.1.0.jar"
