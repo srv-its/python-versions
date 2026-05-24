@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 141198138,
         "digest": "sha256:f889a02425b0b55a0f070d63324f3d08e0975ea0b33aa69041c14418cf6cdeec",
-        "download_count": 18,
+        "download_count": 25,
         "created_at": "2026-05-21T17:17:12Z",
         "updated_at": "2026-05-21T17:17:20Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-25.0.3-linux-aarch64.tar.gz"
@@ -140,7 +140,7 @@
         "state": "uploaded",
         "size": 146324998,
         "digest": "sha256:c351b503d212519ad5e7e835fd9eb56b557ca9d5b6ef59e32b40435603f90bf8",
-        "download_count": 86,
+        "download_count": 106,
         "created_at": "2026-05-21T17:17:35Z",
         "updated_at": "2026-05-21T17:17:43Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-25.0.3-linux-amd64.tar.gz"
@@ -212,7 +212,7 @@
         "state": "uploaded",
         "size": 126665654,
         "digest": "sha256:387d9f5b376860842bea4d55aae5820974f3f3b68fc36c77ae863a061a888857",
-        "download_count": 12,
+        "download_count": 13,
         "created_at": "2026-05-21T17:17:00Z",
         "updated_at": "2026-05-21T17:17:06Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-25.0.3-macos-aarch64.tar.gz"
@@ -284,7 +284,7 @@
         "state": "uploaded",
         "size": 126324464,
         "digest": "sha256:2ae5c42b93e08d9e106a017634a3442b272ccae6d08ace157244de0449e937d4",
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2026-05-21T17:17:43Z",
         "updated_at": "2026-05-21T17:17:50Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-25.0.3-windows-amd64.zip"
@@ -356,7 +356,7 @@
         "state": "uploaded",
         "size": 120054639,
         "digest": "sha256:1e077318fe2f525f2c6d423548d781bffd4fd01bbf51eccdaa33771e843a0d4f",
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2026-05-21T17:17:59Z",
         "updated_at": "2026-05-21T17:18:04Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-community-25.0.3-linux-aarch64.tar.gz"
@@ -428,7 +428,7 @@
         "state": "uploaded",
         "size": 123790415,
         "digest": "sha256:e27fb0a39e687713fd23e096725b858d64e26459be52f6a7d2305e2e666d49de",
-        "download_count": 7,
+        "download_count": 14,
         "created_at": "2026-05-21T17:17:21Z",
         "updated_at": "2026-05-21T17:17:27Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-community-25.0.3-linux-amd64.tar.gz"
@@ -500,7 +500,7 @@
         "state": "uploaded",
         "size": 119532816,
         "digest": "sha256:2054e717d51facd60fc9f280492c0596eaca86c23731dcb156fef89975f2d00a",
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2026-05-21T17:17:51Z",
         "updated_at": "2026-05-21T17:17:57Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.3/graalpy-community-25.0.3-macos-aarch64.tar.gz"
@@ -687,7 +687,7 @@
         "state": "uploaded",
         "size": 142093063,
         "digest": "sha256:805f3526296e04692b27ca001ba97674e53d0f036412d9ffc29aeb8b51517ab6",
-        "download_count": 2786,
+        "download_count": 2811,
         "created_at": "2026-01-20T08:02:54Z",
         "updated_at": "2026-01-20T08:03:05Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-25.0.2-linux-aarch64.tar.gz"
@@ -759,7 +759,7 @@
         "state": "uploaded",
         "size": 147317603,
         "digest": "sha256:8967e4bae1c5040d62dbc98976f2099d5c36c00a79944e99b848d455e618ecdf",
-        "download_count": 16013,
+        "download_count": 16102,
         "created_at": "2026-01-20T08:03:06Z",
         "updated_at": "2026-01-20T08:03:19Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-25.0.2-linux-amd64.tar.gz"
@@ -831,7 +831,7 @@
         "state": "uploaded",
         "size": 127423001,
         "digest": "sha256:c771688b8636932026180bdd9b5e3d6116316fa868faf7e602a60ba020c7bade",
-        "download_count": 4043,
+        "download_count": 4067,
         "created_at": "2026-01-20T08:03:20Z",
         "updated_at": "2026-01-20T08:03:32Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-25.0.2-macos-aarch64.tar.gz"
@@ -903,7 +903,7 @@
         "state": "uploaded",
         "size": 126200473,
         "digest": "sha256:93b72dac049e649002640914eba43b091e113c4be679bf24f7e4210ee3fbd101",
-        "download_count": 6624,
+        "download_count": 6647,
         "created_at": "2026-01-20T08:03:32Z",
         "updated_at": "2026-01-20T08:03:44Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-25.0.2-windows-amd64.zip"
@@ -1119,7 +1119,7 @@
         "state": "uploaded",
         "size": 120096398,
         "digest": "sha256:c64bef17f34d42327d5c3fe40c05eddf791c3653cc8366f6bf1149b51ce9d517",
-        "download_count": 28,
+        "download_count": 29,
         "created_at": "2026-01-20T08:01:35Z",
         "updated_at": "2026-01-20T08:01:52Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-community-25.0.2-macos-aarch64.tar.gz"
@@ -1335,7 +1335,7 @@
         "state": "uploaded",
         "size": 152740699,
         "digest": "sha256:d108e4a21611aec6a7f757ffce321d3a7d073003bd919ba866a08c912c3fa7ec",
-        "download_count": 157,
+        "download_count": 158,
         "created_at": "2026-01-20T08:02:17Z",
         "updated_at": "2026-01-20T08:02:29Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-community-jvm-25.0.2-linux-amd64.tar.gz"
@@ -1407,7 +1407,7 @@
         "state": "uploaded",
         "size": 150030081,
         "digest": "sha256:edf265aec54da494ee81df3e09f5a071db1c6f29e788839a2e747d19a506c513",
-        "download_count": 12,
+        "download_count": 13,
         "created_at": "2026-01-20T08:02:30Z",
         "updated_at": "2026-01-20T08:02:41Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-community-jvm-25.0.2-macos-aarch64.tar.gz"
@@ -1695,7 +1695,7 @@
         "state": "uploaded",
         "size": 157599736,
         "digest": "sha256:9905b1ca46541e082ad0e5718a23bf79a5be7a5fbba7d03b2b50ab08446e6269",
-        "download_count": 29,
+        "download_count": 30,
         "created_at": "2026-01-20T08:04:12Z",
         "updated_at": "2026-01-20T08:04:27Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.2/graalpy-jvm-25.0.2-macos-aarch64.tar.gz"
@@ -2098,7 +2098,7 @@
         "state": "uploaded",
         "size": 128638441,
         "digest": "sha256:10b0721d52397f0cc85f038900318da2203711cbcfae7899e3faed49d3dc6221",
-        "download_count": 2207,
+        "download_count": 2225,
         "created_at": "2025-10-21T08:10:32Z",
         "updated_at": "2025-10-21T08:10:44Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.1/graalpy-25.0.1-macos-amd64.tar.gz"
@@ -2314,7 +2314,7 @@
         "state": "uploaded",
         "size": 124266084,
         "digest": "sha256:5ac049e3e13a9b04eead81851e59dfc794278ffec1933ff429378c1a70c88d32",
-        "download_count": 1869,
+        "download_count": 1873,
         "created_at": "2025-10-21T08:08:02Z",
         "updated_at": "2025-10-21T08:08:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.1/graalpy-community-25.0.1-linux-amd64.tar.gz"
@@ -3437,7 +3437,7 @@
         "state": "uploaded",
         "size": 147165742,
         "digest": "sha256:8ca62fc996b4dcad146ff37139d22a8478959bde73789bfdd1e396287cd09dff",
-        "download_count": 4746,
+        "download_count": 4747,
         "created_at": "2025-09-16T08:55:02Z",
         "updated_at": "2025-09-16T08:55:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.0/graalpy-25.0.0-linux-amd64.tar.gz"
@@ -3797,7 +3797,7 @@
         "state": "uploaded",
         "size": 123972290,
         "digest": "sha256:628d5e2af40b2a3ca694bbea169388394dd30fe0727a3f1b4c92319d7bb788d5",
-        "download_count": 264,
+        "download_count": 265,
         "created_at": "2025-09-16T08:53:04Z",
         "updated_at": "2025-09-16T08:53:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-25.0.0/graalpy-community-25.0.0-linux-amd64.tar.gz"
@@ -4860,7 +4860,7 @@
         "state": "uploaded",
         "size": 306272201,
         "digest": "sha256:c9be459ab9479892b88dd63f8f88cbc7b1067f4cb27ff17f4761b36de6bd73af",
-        "download_count": 12015,
+        "download_count": 12042,
         "created_at": "2025-07-13T13:58:57Z",
         "updated_at": "2025-07-13T13:59:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.2/graalpy-24.2.2-linux-aarch64.tar.gz"
@@ -4932,7 +4932,7 @@
         "state": "uploaded",
         "size": 310494600,
         "digest": "sha256:604b7abf6c58038a30866e52da43818af63bcd97909af8b1a96523c7f0e01414",
-        "download_count": 23826,
+        "download_count": 23892,
         "created_at": "2025-07-13T13:59:16Z",
         "updated_at": "2025-07-13T13:59:37Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.2/graalpy-24.2.2-linux-amd64.tar.gz"
@@ -5004,7 +5004,7 @@
         "state": "uploaded",
         "size": 298935210,
         "digest": "sha256:f4a2ae01bae0fa53ec0d19f86d73c6dcc2a162d245552030183b84bfdd8f7635",
-        "download_count": 5011,
+        "download_count": 5018,
         "created_at": "2025-07-13T13:59:37Z",
         "updated_at": "2025-07-13T13:59:55Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.2/graalpy-24.2.2-macos-aarch64.tar.gz"
@@ -5076,7 +5076,7 @@
         "state": "uploaded",
         "size": 299421943,
         "digest": "sha256:2f4d5e7dbdf90e38778dfcb8ca3e1ec7eee257ef726b1937d5bc91b54cdddf9b",
-        "download_count": 3059,
+        "download_count": 3067,
         "created_at": "2025-07-13T13:59:56Z",
         "updated_at": "2025-07-13T14:00:17Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.2/graalpy-24.2.2-macos-amd64.tar.gz"
@@ -5148,7 +5148,7 @@
         "state": "uploaded",
         "size": 626013603,
         "digest": "sha256:9606134284d4d95b2f9d69c3087cd3e9e488f46355b419f5e66588a3281df6a3",
-        "download_count": 6772,
+        "download_count": 6777,
         "created_at": "2025-07-13T14:00:18Z",
         "updated_at": "2025-07-13T14:01:00Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.2/graalpy-24.2.2-windows-amd64.zip"
@@ -6775,7 +6775,7 @@
         "state": "uploaded",
         "size": 293541004,
         "digest": null,
-        "download_count": 372,
+        "download_count": 373,
         "created_at": "2025-04-15T06:44:03Z",
         "updated_at": "2025-04-15T06:44:23Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.1/graalpy-community-24.2.1-linux-amd64.tar.gz"
@@ -8258,7 +8258,7 @@
         "state": "uploaded",
         "size": 293297472,
         "digest": null,
-        "download_count": 1468,
+        "download_count": 1470,
         "created_at": "2025-03-10T02:43:06Z",
         "updated_at": "2025-03-10T02:43:25Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.2.0/graalpy-community-24.2.0-linux-amd64.tar.gz"
@@ -9309,7 +9309,7 @@
         "state": "uploaded",
         "size": 376388490,
         "digest": null,
-        "download_count": 23046,
+        "download_count": 23076,
         "created_at": "2025-01-19T20:44:01Z",
         "updated_at": "2025-01-19T20:44:24Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-linux-aarch64.tar.gz"
@@ -9381,7 +9381,7 @@
         "state": "uploaded",
         "size": 380325363,
         "digest": null,
-        "download_count": 49101,
+        "download_count": 49143,
         "created_at": "2025-01-19T20:44:25Z",
         "updated_at": "2025-01-19T20:44:49Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-linux-amd64.tar.gz"
@@ -9453,7 +9453,7 @@
         "state": "uploaded",
         "size": 359392167,
         "digest": null,
-        "download_count": 14166,
+        "download_count": 14184,
         "created_at": "2025-01-19T20:44:49Z",
         "updated_at": "2025-01-19T20:45:12Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-macos-aarch64.tar.gz"
@@ -9525,7 +9525,7 @@
         "state": "uploaded",
         "size": 359737233,
         "digest": null,
-        "download_count": 12143,
+        "download_count": 12159,
         "created_at": "2025-01-19T20:45:12Z",
         "updated_at": "2025-01-19T20:45:34Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-24.1.2-macos-amd64.tar.gz"
@@ -10101,7 +10101,7 @@
         "state": "uploaded",
         "size": 347464531,
         "digest": null,
-        "download_count": 55,
+        "download_count": 57,
         "created_at": "2025-01-19T20:42:16Z",
         "updated_at": "2025-01-19T20:42:37Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.1.2/graalpy-community-jvm-24.1.2-linux-amd64.tar.gz"
@@ -13818,7 +13818,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1185,
+        "download_count": 1192,
         "created_at": "2024-07-16T12:20:14Z",
         "updated_at": "2024-07-16T12:20:14Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-linux-aarch64.tar.gz.sha256"
@@ -13854,7 +13854,7 @@
         "state": "uploaded",
         "size": 353095453,
         "digest": null,
-        "download_count": 9176,
+        "download_count": 9177,
         "created_at": "2024-07-16T12:16:13Z",
         "updated_at": "2024-07-16T12:16:36Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-linux-amd64.tar.gz"
@@ -13890,7 +13890,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1187,
+        "download_count": 1194,
         "created_at": "2024-07-16T12:20:15Z",
         "updated_at": "2024-07-16T12:20:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-linux-amd64.tar.gz.sha256"
@@ -13962,7 +13962,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1189,
+        "download_count": 1195,
         "created_at": "2024-07-16T12:20:15Z",
         "updated_at": "2024-07-16T12:20:15Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-macos-aarch64.tar.gz.sha256"
@@ -14034,7 +14034,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1182,
+        "download_count": 1189,
         "created_at": "2024-07-16T12:20:16Z",
         "updated_at": "2024-07-16T12:20:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-macos-amd64.tar.gz.sha256"
@@ -14106,7 +14106,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1183,
+        "download_count": 1189,
         "created_at": "2024-07-16T12:20:16Z",
         "updated_at": "2024-07-16T12:20:16Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.2/graalpy-24.0.2-windows-amd64.zip.sha256"
@@ -17192,7 +17192,7 @@
         "state": "uploaded",
         "size": 265642891,
         "digest": null,
-        "download_count": 2289,
+        "download_count": 2292,
         "created_at": "2024-03-19T13:38:34Z",
         "updated_at": "2024-03-19T13:38:56Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-24.0.0/graalpy-community-24.0.0-linux-amd64.tar.gz"
@@ -18327,7 +18327,7 @@
         "state": "uploaded",
         "size": 365113595,
         "digest": null,
-        "download_count": 10030,
+        "download_count": 10031,
         "created_at": "2024-01-15T21:05:45Z",
         "updated_at": "2024-01-15T21:06:11Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-23.1.2-linux-amd64.tar.gz"
@@ -18687,7 +18687,7 @@
         "state": "uploaded",
         "size": 273127118,
         "digest": null,
-        "download_count": 408,
+        "download_count": 409,
         "created_at": "2024-01-15T21:00:49Z",
         "updated_at": "2024-01-15T21:01:20Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.2/graalpy-community-23.1.2-linux-amd64.tar.gz"
@@ -21377,7 +21377,7 @@
         "state": "uploaded",
         "size": 611213487,
         "digest": null,
-        "download_count": 236,
+        "download_count": 237,
         "created_at": "2023-09-19T09:22:32Z",
         "updated_at": "2023-09-19T09:23:27Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.1.0/graalpy-23.1.0-windows-amd64.zip"
@@ -22656,7 +22656,7 @@
         "state": "uploaded",
         "size": 215641884,
         "digest": null,
-        "download_count": 10881,
+        "download_count": 10882,
         "created_at": "2023-07-23T12:45:46Z",
         "updated_at": "2023-07-23T12:46:03Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/graal-23.0.1/graalpython-23.0.1-linux-amd64.tar.gz"
@@ -24446,7 +24446,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1205,
+        "download_count": 1211,
         "created_at": "2023-01-23T17:18:06Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-aarch64.tar.gz.sha256"
@@ -24482,7 +24482,7 @@
         "state": "uploaded",
         "size": 207156431,
         "digest": null,
-        "download_count": 12354,
+        "download_count": 12356,
         "created_at": "2023-01-23T17:09:44Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-amd64.tar.gz"
@@ -24518,7 +24518,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1199,
+        "download_count": 1206,
         "created_at": "2023-01-23T17:18:06Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-linux-amd64.tar.gz.sha256"
@@ -24590,7 +24590,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1202,
+        "download_count": 1208,
         "created_at": "2023-01-23T17:18:07Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-aarch64.tar.gz.sha256"
@@ -24662,7 +24662,7 @@
         "state": "uploaded",
         "size": 64,
         "digest": null,
-        "download_count": 1201,
+        "download_count": 1207,
         "created_at": "2023-01-23T17:18:08Z",
         "updated_at": "2023-01-24T14:32:54Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/graalpy-22.3.1-macos-amd64.tar.gz.sha256"
@@ -24914,7 +24914,7 @@
         "state": "uploaded",
         "size": 151542239,
         "digest": null,
-        "download_count": 3118,
+        "download_count": 3119,
         "created_at": "2023-01-23T17:13:39Z",
         "updated_at": "2023-01-23T17:14:09Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.1/python-installable-svm-java11-linux-amd64-22.3.1.jar"
@@ -26121,7 +26121,7 @@
         "state": "uploaded",
         "size": 151548891,
         "digest": null,
-        "download_count": 4289,
+        "download_count": 4290,
         "created_at": "2022-10-21T16:57:59Z",
         "updated_at": "2022-10-21T16:58:25Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.3.0/python-installable-svm-java11-linux-amd64-22.3.0.jar"
@@ -27172,7 +27172,7 @@
         "state": "uploaded",
         "size": 164464388,
         "digest": null,
-        "download_count": 57114,
+        "download_count": 57119,
         "created_at": "2022-07-24T21:32:29Z",
         "updated_at": "2022-07-24T21:32:50Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-22.2.0/python-installable-svm-java17-linux-amd64-22.2.0.jar"
@@ -28453,7 +28453,7 @@
         "state": "uploaded",
         "size": 126672673,
         "digest": null,
-        "download_count": 4981,
+        "download_count": 4982,
         "created_at": "2021-10-19T08:38:15Z",
         "updated_at": "2021-10-19T08:38:25Z",
         "browser_download_url": "https://github.com/oracle/graalpython/releases/download/vm-21.3.0/python-installable-svm-java11-linux-amd64-21.3.0.jar"
